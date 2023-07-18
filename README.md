@@ -13,3 +13,7 @@ It turns out only 60 or si of every 100 rides requested are finding a driver at 
 
 
 > In this repository, you will find both the Excel file and the Python file with the detailed analysis of the problem and how the proposal was derived.
+
+
+
+In the table above, you will find two folders with their respective names. Simply enter them and you will be able to download the files.
